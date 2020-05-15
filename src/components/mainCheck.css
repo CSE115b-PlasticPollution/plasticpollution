@@ -1,0 +1,26 @@
+
+.flexboxCheck {
+  position: absolute;
+      /* max-width: 994px; */
+      /* height: 37vh; */
+      overflow: hidden;
+      margin: 686px 1089px;
+      /* padding: 15px;*/
+}
+
+.flexboxCheck .boardCheck{
+  width:260px;
+  height:260px;
+  background-image:url(https://i5.walmartimages.com/asr/f1629627-c39e-4c36-885f-e42422fd74ab_1.23bc6c116e586cd9c134816cd04eb900.jpeg);
+  background-size:contain;
+  padding:15px;
+}
+
+.flexboxCheck .boardCheck .cardCheck{
+  padding: 15px 25px;
+  background-color:white;
+  width: 111px;
+  height: 112px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}

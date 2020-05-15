@@ -1,0 +1,97 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  margin: -.5% -112% 0% 0%;
+  padding: 15px 2px 14px 468px;
+  position: relative;
+  background-color: black;
+  margin-left: 0px;
+}
+
+.grid-containerHelp{
+    background-color: #2196f3;
+    text-align: center;
+    font-size: 25px;
+    width: 400px;
+    border-radius: 7px 7px 7px 7px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 35px;
+  font-size: 30px;
+  text-align: center;
+
+}
+
+.grid-itemHelp {
+  ackground-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 34px;
+      font-size: 30px;
+      text-align: center;
+      position: relative;
+      margin-top: 13px;
+      background-color:aliceblue;
+
+}
+
+
+
+.grid-itemText {
+  background-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 34px;
+      font-size: 16px;
+      text-align: left;
+      position: absolute;
+      margin-top: -346px;
+      width: 600px;
+      background-color: white;
+      height: 345px;
+      margin-left: 447px;
+
+}
+
+.grid-itemBins {
+
+      background-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid rgba(0, 0, 0, 0.8);
+      padding: 40px;
+      font-size: 16px;
+      text-align: left;
+      position: relative;
+      margin-top: -346px;
+      width: 387px;
+      background-color: white;
+      height: 345px;
+      margin-left: 1090px;
+
+}
+
+.itemSize{
+  height: 220px;
+  width: 300px;
+}
+
+.divLinks{
+    height: 900.5px;
+    width: 2000px;
+    background-color: powderblue;
+    background-image: url(https://s3.amazonaws.com/libapps/accounts/57039/images/world.jpg);
+    position: absolute;
+    background-position: left;
+    backface-visibility: visible;
+    margin: center;
+    margin-top: 12px;
+    margin-left: -27%;
+    align-content: left;
+    text-align: left;
+}
+
+.preventionFormat{
+  color:white;
+  position: relative;
+  margin-left: 20px;
+  margin-top: 30px;
+}

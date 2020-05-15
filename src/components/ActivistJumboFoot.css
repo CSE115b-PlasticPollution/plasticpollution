@@ -1,0 +1,20 @@
+.styleJumboFoot{
+  background-color: #000;
+    /* border-radius: 0; */
+    height: 55vh;
+    padding: 137px 0px 0px 0px;
+    margin: -7% 0% -7% 0%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.picStyle{
+  position: unset;
+      display: flex;
+      height: 36vh;
+      width: 75vh;
+      position: unset;
+  display: flex;
+  height: 36vh;
+  width: 75vh;
+  margin: -25% 0% 0% 28.1%
+}

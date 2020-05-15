@@ -19,3 +19,141 @@ p {
   margin-top: 10%;
   font-weight: bold;
 }
+
+
+.button-success,
+.button-error,
+.button-warning,
+.button-secondary {
+    color: white;
+    border-radius: 3px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+    margin:-10%;
+    top:30px;
+}
+
+.button-success {
+    background: rgb(28, 184, 65); /* this is a green */
+}
+
+.button-error {
+    background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.button-warning {
+    background: rgb(223, 117, 20); /* this is an orange */
+}
+
+.button-secondary {
+    background: rgb(66, 184, 221); /* this is a light blue */
+}
+
+.grid-container {
+  display: grid;
+      grid-template-columns: auto auto auto;
+      backgroundColor: gray;
+      padding: 10px;
+      margin-top: .5px;
+}
+
+
+.grid-container > div {
+      text-align: center;
+      grid-template-columns: auto auto auto;
+      font-size: 25px;
+      width: 180px;
+      border-radius: 7px 7px 7px 7px;
+  }
+
+.backgroundActivist{
+    height: 100%;
+    width:100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.pictureIconHeight{
+  height:100px;
+  position:inherit;
+  width:80px;
+  padding: 3px 0px 34px 10px;
+  cursor: not-allowed;
+
+}
+
+.pictureIconSoda{
+    height: 109px;
+    position: inherit;
+    width: 80px;
+    padding: 0px 0px 39px 0px;
+    cursor:not-allowed;
+}
+
+.bananaSize{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 182px;
+  width: 169px;
+  margin-left: 200px;
+  margin-top: 232px;
+  padding: 1px 3px;
+  background:hidden;
+  cursor:pointer
+}
+
+.bananaImg{
+    width:120px;
+    height:100px;
+    cursor:not-allowed;
+    background-color: #6d6d28;
+    background-size: contain;
+}
+
+.zoom {
+  padding: 50px;
+  background-color: hidden;
+  transition: transform .2s;
+  width: 100px;
+  height: 100px;
+  margin: -53px -32px;
+  color: white;
+  font-family: fantasy;
+  padding-right: 1px;
+  height: 113px;
+  padding-bottom: inherit;
+}
+
+.zoom:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  border-radius: 39px 45px 114px 114px;
+}
+
+.colorBack{
+  background-color:black;
+  color:#129dcc;
+  font-size: x-large;
+  font-family: sans-serif;
+  font-color: black;
+  font-weight: 600;
+  box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.layoutDisplayContent{
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin: 6% 0% 0% -248%;
+}
+
+.picStyle{
+  position: relative;
+  display: flex;
+  alignItems: center;
+  display: flex;
+  height: 36vh;
+  width: 75vh;
+  margin: -5% 0% 0% 20.5%;
+}

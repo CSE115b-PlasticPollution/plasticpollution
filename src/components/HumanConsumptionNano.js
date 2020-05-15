@@ -34,6 +34,10 @@ const HumanConsumptionNano = () => {
     const audioEl = document.getElementsByClassName("audio-element")[0]
     audioEl.play()
   }
+
+  const style = {
+    border:'none'
+  }
   /* End of Nano Audio */
     const hoverStyle = {
        position: "relative",
@@ -440,7 +444,9 @@ return(
           {/* End of Blob Fish */}
         </div>
       </div>            {/* End of nested hoveer blob */}
+
   </div>                {/* End of Black water */}
+
 </div>
     );
 }

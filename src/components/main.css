@@ -1,0 +1,126 @@
+
+.flexbox {
+    position: absolute;
+    /* max-width: 994px; */
+    /* height: 37vh; */
+    overflow: hidden;
+    margin-top: 12.5px;
+    margin-left: -300px;
+    padding: -23px;
+}
+.flexbox .board{
+  margin-left: 222px;
+  margin-top: -476px;
+  background-clip: content-box;
+  background-repeat-y: no-repeat;
+  background-image: url();
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  background-origin: padding-box;
+  width: 260px;
+  height: 260px;
+  background-image: url(https://cdnimg.webstaurantstore.com/images/products/large/447117/1672058.jpg);
+  background-size: contain;
+  padding: 15px 76px 0px 14px;
+  border-radius: 33px 165px 66px 46px;
+}
+.flexbox .board .card{
+  padding: 15px 25px;
+  width: 111px;
+  height: 112px;
+  cursor: pointer;
+  margin-bottom: 15px;
+
+}
+
+.flexboxTwo {
+  position: relative;
+  /* max-width: 994px; */
+  /* height: 37vh; */
+  overflow: hidden;
+  margin: 30px 800px;
+  /* padding: 15px; */
+}
+.flexboxTwo .boardTwo{
+  width:160px;
+  height:210px;
+  /* background-image:url(https://img.pngio.com/plastic-bottle-with-mineral-water-on-alpha-transparent-background-water-bottle-no-background-1300_1300.jpg); */
+  background-size:contain;
+  padding:0px 5px 5px 8px;
+}
+
+.flexboxTwo .boardTwo .cardTwo{
+  padding: -6px 25px;
+  background-color: blue;
+  font-color: white;
+  /* border-radius: 41px 76px 64px 54px; */
+  width: 115px;
+  height: 210px;
+  cursor: pointer;
+  margin-left: 31px;
+  margin-top: 5px;
+  margin-bottom: 28px;
+}
+.flexboxThree {
+      position: absolulte;
+      /* max-width: 994px; */
+      /* height: 37vh; */
+      overflow: hidden;
+      margin: -644px 975px;
+      /* padding: 15px; */
+      position: absolute;
+}
+.flexboxThree .boardThree{
+  width:123px;
+  height:130px;
+  /* background-image:url(https://img.pngio.com/plastic-bottle-with-mineral-water-on-alpha-transparent-background-water-bottle-no-background-1300_1300.jpg); */
+  background-size:contain;
+  padding:0px 5px 5px 8px;
+}
+
+.flexboxThree .boardThree .cardThree{
+  padding: -6px 25px;
+  background-color:white;
+  width: 111px;
+  height: 125px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+.flexboxThree .boardThree .cardThree{
+      padding: -6px 25px;
+      background-color: red;
+      font-color: white;
+      /* border-radius: 41px 76px 64px 54px; */
+      width: 115px;
+      height: 210px;
+      cursor: pointer;
+      margin-left: 31px;
+      margin-top: 5px;
+      margin-bottom: 28px;
+}
+
+
+.flexboxFour {
+      position: absolulte;
+      /* max-width: 994px; */
+      /* height: 37vh; */
+      overflow: hidden;
+      margin: -644px 975px;
+      /* padding: 15px; */
+      position: absolute;
+}
+.flexboxFour .boardFour{
+  width:123px;
+  height:130px;
+  background-size:contain;
+  padding:0px 5px 5px 8px;
+}
+
+.flexboxFour .boardFour .cardFour{
+  padding: -6px 25px;
+  background-color:white;
+  width: 111px;
+  height: 125px;
+  cursor: pointer;
+  margin-bottom: 15px;
+}

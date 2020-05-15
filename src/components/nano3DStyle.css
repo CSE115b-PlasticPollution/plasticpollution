@@ -1,0 +1,12 @@
+.nanoButtonOcean{
+
+  padding-left: 23px;
+  margin-left: 17%;
+  color: #4a4d4f;
+  background-color: lightblue;
+  width: -moz-fit-content;
+  width: fit-content;
+  border-radius: 10px 10px 10px 10px;
+  border-width: 10px 45px 10px 38px;
+  border-color:lightblue;
+}

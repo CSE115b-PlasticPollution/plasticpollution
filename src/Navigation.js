@@ -29,6 +29,10 @@ class Navigation extends React.Component{
 								<NavDropdown.Item href="/plasticpollution/#/Macro">Macro</NavDropdown.Item>
 								<NavDropdown.Item href="/plasticpollution/#/Micro">Micro</NavDropdown.Item>
 								<NavDropdown.Item href="/plasticpollution/#/Nano">Nano</NavDropdown.Item>
+								<NavDropdown.Item href="/plasticpollution/#/Ocean3D"></NavDropdown.Item>
+								<NavDropdown.Item href="/plasticpollution/#/nanoFood3D"></NavDropdown.Item>
+								<NavDropdown.Item href="/plasticpollution/#/nanoDinner3D"></NavDropdown.Item>
+
 							  </NavDropdown>
 					    </Nav>
 							{/* End of Links */}
