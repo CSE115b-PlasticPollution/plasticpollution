@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fcd277095a1f2ff4e0bc5b69e6b371da",
+    "revision": "0377b8569e9b68dff290f53c7acf36c8",
     "url": "/plasticpollution/index.html"
   },
   {
-    "revision": "6e2fc3b8190eeb7d9cdc",
-    "url": "/plasticpollution/static/css/2.b18e2bae.chunk.css"
+    "revision": "80e7bc256689521e6a7e",
+    "url": "/plasticpollution/static/css/2.5c0dfd22.chunk.css"
   },
   {
-    "revision": "ca83ee1683c25124e0c4",
-    "url": "/plasticpollution/static/css/main.43c2e96b.chunk.css"
+    "revision": "0d822e38476e1704a12a",
+    "url": "/plasticpollution/static/css/main.2397f443.chunk.css"
   },
   {
-    "revision": "6e2fc3b8190eeb7d9cdc",
-    "url": "/plasticpollution/static/js/2.86761873.chunk.js"
+    "revision": "80e7bc256689521e6a7e",
+    "url": "/plasticpollution/static/js/2.e41f04ae.chunk.js"
   },
   {
-    "revision": "97ca42ae67b8cc4bab87c4e54364aeeb",
-    "url": "/plasticpollution/static/js/2.86761873.chunk.js.LICENSE.txt"
+    "revision": "5a0ca376ba439f5f336426cf263673b6",
+    "url": "/plasticpollution/static/js/2.e41f04ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca83ee1683c25124e0c4",
-    "url": "/plasticpollution/static/js/main.625a807e.chunk.js"
+    "revision": "0d822e38476e1704a12a",
+    "url": "/plasticpollution/static/js/main.d216de73.chunk.js"
   },
   {
     "revision": "674042159570c5a8a734",
@@ -40,6 +40,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plasticpollution/static/media/Water-bubble.0c384c1b.mp3"
   },
   {
+    "revision": "beb3c03618ec0e3ab46f83c8325d675a",
+    "url": "/plasticpollution/static/media/activismBin.beb3c036.jpg"
+  },
+  {
     "revision": "11911410dca2de148f30954eb2fd5eab",
     "url": "/plasticpollution/static/media/arrow_left.11911410.svg"
   },
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a86031dd20f35163486de6174e48cc18",
     "url": "/plasticpollution/static/media/bins.a86031dd.jpg"
+  },
+  {
+    "revision": "d57eaecec48e3484d0a4b3134960f814",
+    "url": "/plasticpollution/static/media/binsGame.d57eaece.png"
   },
   {
     "revision": "1e9be2c7a18b4fbc93956607ae91f7ed",
@@ -70,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e62fc7bab980ee3172a5b2995c63a241",
     "url": "/plasticpollution/static/media/chinashipping.e62fc7ba.jpg"
+  },
+  {
+    "revision": "f6b2954a0e9b682190b82ee4934aae5e",
+    "url": "/plasticpollution/static/media/clothesRack.f6b2954a.png"
   },
   {
     "revision": "0cb5a5c0d251c109458c85c6afeffbaa",
@@ -148,8 +160,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/plasticpollution/static/media/kitchen.31d76638.jpg"
   },
   {
+    "revision": "8f8d94bd186a9dcb3f5b067b835e54fa",
+    "url": "/plasticpollution/static/media/kitchenActivist.8f8d94bd.jpg"
+  },
+  {
     "revision": "2a0828f2d88cdc5edad86bf5b70afd58",
     "url": "/plasticpollution/static/media/landfill.2a0828f2.jpg"
+  },
+  {
+    "revision": "b30ce146f45c7374ca6bde6aec1299f0",
+    "url": "/plasticpollution/static/media/laundry.b30ce146.png"
   },
   {
     "revision": "681107c1e1085a4071f2526dc2f78053",
@@ -194,6 +214,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67fcffdb9455d5fbb4023d8dfa6665a2",
     "url": "/plasticpollution/static/media/ocean_blue.67fcffdb.jpg"
+  },
+  {
+    "revision": "99b1507d56cfeb974f9c504ae3fb36ca",
+    "url": "/plasticpollution/static/media/pipe2.99b1507d.png"
   },
   {
     "revision": "e717a878fddc5f15da8dd25825b71e66",
@@ -254,6 +278,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "13ab20c285340c686ba910dbdcc85a81",
     "url": "/plasticpollution/static/media/ucsc.13ab20c2.png"
+  },
+  {
+    "revision": "72a0301aabcb61cbbabe527e6a620ef8",
+    "url": "/plasticpollution/static/media/watertreatment.72a0301a.svg"
   },
   {
     "revision": "825a0f8335f07d783f4b95fa8030ca4a",
