@@ -13,12 +13,14 @@
 	color: white;
 	font-size: 50px;
 	padding: 25px;
+	text-align: center;
 }
 
 .macrotxt{
 	color: white;
 	font-size: 30px;
 	padding: 15px;
+	text-align: center;
 }
 .macrotxtdesc{
 	margin: auto;

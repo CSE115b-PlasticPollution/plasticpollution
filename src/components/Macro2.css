@@ -292,6 +292,7 @@
 	color: white;
 	font-size: 30px;
 	padding: 10px;
+	text-align: center;
 }
 .area1_landfill:hover ~ .landfill_apex{visibility: visible;}
 .area2_landfill:hover ~ .landfill_bordo{visibility: visible;}

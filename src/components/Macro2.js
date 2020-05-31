@@ -26,11 +26,11 @@ const Macro = (myRef) => {
         
       </div>
       <div> 
-        <p className="description2 macrotxt"> None of the energy or material used can be recovered when plastics are disposed of in landfills. Space constraints are also becoming an issue. Although land in the United States is abundant, smaller countries such as Denmark and Japan already are relying more heavily on incineration to conserve land resources.
-        Even then landfills are plentiful in the US. </p>
+        <h2 className="description2 macrotxt"> None of the energy or material used can be recovered when plastics are disposed of in landfills. Space constraints are also becoming an issue. Although land in the United States is abundant, smaller countries such as Denmark and Japan already are relying more heavily on incineration to conserve land resources.
+        Even then landfills are plentiful in the US. </h2>
         <div className="landfill_macro_double_cont">
         <img className="landfill_us_map"src="https://www.saveonenergy.com/assets/default/outreach/land-of-waste/asset1.png"></img>
-        <p className="description2 macrotxt">This constitutes a long-term risk of contamination of soil and groundwater with plastics’ components as well as with other contaminants contained in landfill leachate.</p>
+        <h2 className="description2 macrotxt">This constitutes a long-term risk of contamination of soil and groundwater with plastics’ components as well as with other contaminants contained in landfill leachate.</h2>
         </div>
         <h1 className="macrotxttitle">Largest Landfill Sites</h1>
         <div className="landfill_macro_double_cont">
@@ -43,14 +43,14 @@ const Macro = (myRef) => {
         <div className="area6_landfill"></div>
         <div className="area7_landfill"></div>
         <div className="area8_landfill"></div>
-        <div className="landfill_apex"><p className="macrotxt centerlandfill">Apex Regional</p><div className="apex"></div><p className="macrotxtsmall">Location: Las Vegas, United States </p><p className="macrotxtsmall">Size: 2,200 acres </p></div>
-        <div className="landfill_bordo"><p className="macrotxt centerlandfill">Bordo Poniente</p><div className="bordo"></div><p className="macrotxtsmall">Location: Mexico City, Mexico </p><p className="macrotxtsmall">Size: 927 acres </p></div>
-        <div className="landfill_laogang"><p className="macrotxt centerlandfill">Laogang</p><div className="lao"></div><p className="macrotxtsmall">Location: Shanghai China</p><p className="macrotxtsmall">Size: 830 acres</p></div>
-        <div className="landfill_malagrotta"><p className="macrotxt centerlandfill">Malagrotta</p><div className="mala"></div><p className="macrotxtsmall">Location: Rome Italy</p><p className="macrotxtsmall">Size: 680 acres</p></div>
-        <div className="landfill_puenta"><p className="macrotxt centerlandfill">Puenta Hills</p><div className="puenta"></div><p className="macrotxtsmall">Location: Los Angelos, United States</p><p className="macrotxtsmall">Size: 630acres </p></div>
-        <div className="landfill_sudo"><p className="macrotxt centerlandfill">Sudokwan</p><div className="sudo"></div><p className="macrotxtsmall">Location: Incheon, South Korea </p><p className="macrotxtsmall">Size: 570 acres </p></div>
-        <div className="landfill_delhi"><p className="macrotxt centerlandfill">Delhi Landfills</p><div className="delhi"></div><p className="macrotxtsmall">Location: New Delhi, India</p><p className="macrotxtsmall">Size: 500 acres</p></div>
-        <div className="landfill_deonar"><p className="macrotxt centerlandfill">Deonar</p><div className="deonar"></div><p className="macrotxtsmall">Location: Mumbai, India</p><p className="macrotxtsmall">Size: 326 acres</p></div>
+        <div className="landfill_apex"><h2 className="macrotxt centerlandfill">Apex Regional</h2><div className="apex"></div><h2 className="macrotxtsmall">Location: Las Vegas, United States </h2><h2 className="macrotxtsmall">Size: 2,200 acres </h2></div>
+        <div className="landfill_bordo"><h2 className="macrotxt centerlandfill">Bordo Poniente</h2><div className="bordo"></div><h2 className="macrotxtsmall">Location: Mexico City, Mexico </h2><h2 className="macrotxtsmall">Size: 927 acres </h2></div>
+        <div className="landfill_laogang"><h2 className="macrotxt centerlandfill">Laogang</h2><div className="lao"></div><h2 className="macrotxtsmall">Location: Shanghai China</h2><h2 className="macrotxtsmall">Size: 830 acres</h2></div>
+        <div className="landfill_malagrotta"><h2 className="macrotxt centerlandfill">Malagrotta</h2><div className="mala"></div><h2 className="macrotxtsmall">Location: Rome Italy</h2><h2 className="macrotxtsmall">Size: 680 acres</h2></div>
+        <div className="landfill_puenta"><h2 className="macrotxt centerlandfill">Puenta Hills</h2><div className="puenta"></div><h2 className="macrotxtsmall">Location: Los Angelos, United States</h2><h2 className="macrotxtsmall">Size: 630acres </h2></div>
+        <div className="landfill_sudo"><h2 className="macrotxt centerlandfill">Sudokwan</h2><div className="sudo"></div><h2 className="macrotxtsmall">Location: Incheon, South Korea </h2><h2 className="macrotxtsmall">Size: 570 acres </h2></div>
+        <div className="landfill_delhi"><h2 className="macrotxt centerlandfill">Delhi Landfills</h2><div className="delhi"></div><h2 className="macrotxtsmall">Location: New Delhi, India</h2><h2 className="macrotxtsmall">Size: 500 acres</h2></div>
+        <div className="landfill_deonar"><h2 className="macrotxt centerlandfill">Deonar</h2><div className="deonar"></div><h2 className="macrotxtsmall">Location: Mumbai, India</h2><h2 className="macrotxtsmall">Size: 326 acres</h2></div>
         </div>
         </div>
       </div>

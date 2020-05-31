@@ -1,0 +1,94 @@
+.challenges_main{
+    background: linear-gradient(to right, #5680E9 0%, #5AB9EA 50%, #5680E9 100%);
+    width: 100%;
+}
+.video_main_challenge{
+    width:100%;
+    height:600px;
+
+}
+.video_challenge1{
+    width: 100%;
+    height: 100%;
+}
+.challenge_text{
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+    
+}
+.challenge_txt_cont{
+    width: 50%;
+    justify-self: flex-start;
+    background: linear-gradient(to right, #5AB9EA  0%, #5680E9 50%, #5AB9EA 100%);
+    padding: 15px;
+    
+}
+.body_challenge{
+    font-size: 25px;
+}
+.title_challenge{
+    font-size: 40px;
+    padding: 15px;
+}
+.challenge_duo{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+.challenge_img{
+    width: 50%;
+    height: 200px;
+    padding: 10px;
+    justify-self: flex-end; 
+}
+.img1{
+    background: url("https://sfenvironment.org/sites/default/files/article/square/zw-059.jpg") no-repeat center;
+    background-size: contain;
+}
+.img2{
+    background: url("https://image.freepik.com/free-photo/stylish-beautiful-woman-holding-takeaway-coffee-cup-both-hands-one-is-single-use-paper-cup-with-plastic-lid-other-one-is-reusable-stainless-tumbler-no-straw-zero-waste-concept_210819-8.jpg") no-repeat center;
+    background-size: contain;
+}
+.img3{
+    background: url("https://www.gardeningknowhow.com/wp-content/uploads/2019/12/compost-bin.jpg") no-repeat center;
+    background-size: contain;
+}
+.img4{
+    background: url("https://quiltersplanner.com/wp-content/uploads/2017/12/IMG_5116-1024x676.jpg") no-repeat center;
+    background-size: contain;
+}
+.img5{
+    background: url("https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_Rf3tQkI0Yo/v1/1000x-1.jpg") no-repeat center;
+    background-size: contain;
+}
+.img6{
+    background: url("https://lh3.googleusercontent.com/proxy/fT75c8neCBrU0gUoRRWgx7WTOH99fCuNXBAg0fX8obSKxWB0p4ZQn_CCh249UeAGzLOEwqXcSScAvzK6m5s9DodxtWCGHS8XEXMf2RT1NQrlhyXP1ST20iu_YALJB2HGuCxgJe1PASvYeg") no-repeat center;
+    background-size: contain;
+}
+.img7{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSUXrOcWEI1HAsm3s8QcRTn0yAbeezEKA-Cjs3aOlPTRpOOjH9p&usqp=CAU") no-repeat center;
+    background-size: contain;
+}
+.img8{
+    background: url("https://fiftyshadesofsnail.files.wordpress.com/2016/07/actives-for-anti-aging-skincare.jpg") no-repeat center;
+    background-size: contain;
+}
+.img9{
+    background: url("https://c1.neweggimages.com/ProductImage/A7DU_1_2019042294644320.jpg") no-repeat center;
+    background-size: contain;
+}
+.img10{
+    background: url("https://mljhf1flnoxv.i.optimole.com/yMSB1JI-5MRslDrV/w:auto/h:auto/q:auto/https://i0.wp.com/www.ecofworld.com/wp-content/uploads/24427-9tixiz.jpg?fit=160%2C160&ssl=1") no-repeat center;
+    background-size: contain;
+}
+.img11{
+    background: url("https://cdn.shopify.com/s/files/1/1557/1217/products/BT-CUSTOM_1200x.jpg?v=1578606925") no-repeat center;
+    background-size: contain;
+}
+.img12{
+    background: url("https://getinstantdeals.com/wp-content/uploads/2019/09/Shopping-Bay.jpg") no-repeat center;
+    background-size: contain;
+}

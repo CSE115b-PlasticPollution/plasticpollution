@@ -14,7 +14,7 @@ const Macro = (myRef) => {
         </div>
         <div className="middle">
           <h1 className="macrotxttitle">Dumping Your Plastic</h1>
-          <p className="macrotxt">Oh no! Your plastic has been carried by the wind into the storm drain. Follow to storm drain to see where the plastic ends up.</p>
+          <h2 className="macrotxt">Oh no! Your plastic has been carried by the wind into the storm drain. Follow to storm drain to see where the plastic ends up.</h2>
           <a id="area" className="areastorm " href="/plasticpollution/#/MacroOcean"></a>
           <img className="stormdrain" src={stormdrain} ></img>
 

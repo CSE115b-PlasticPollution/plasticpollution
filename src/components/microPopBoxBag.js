@@ -18,17 +18,17 @@ export default function BagPopUp(props) {
 
   const Macro2Micro= 
   <div className="popoverM2M">
-    <p className="macrotxtMicroTitle">Wait!</p>
-    <p className="macrotxtMicro">The plastic doesn't just disappear</p>
+    <h2 className="macrotxtMicroTitle">Wait!</h2>
+    <h2 className="macrotxtMicro">The plastic doesn't just disappear</h2>
     <div className="double_m2m">
-    <p className="macrotxtMicro">The sun</p>
+    <h2 className="macrotxtMicro">The sun</h2>
     <div className="m2msun"></div>
     <div className="m2mwaves"></div>
-    <p className="macrotxtMicro">Or Ocean Waves</p>
+    <h2 className="macrotxtMicro">Or Ocean Waves</h2>
     </div>
-    <p className="macrotxtMicro">Break down the macro plastics into micro plastics</p>
+    <h2 className="macrotxtMicro">Break down the macro plastics into micro plastics</h2>
     <div className="m2mmicros"></div>
-    <p className="macrotxtMicro">Continue onto the micro journey</p>
+    <h2 className="macrotxtMicro">Continue onto the micro journey</h2>
   </div>
 
   ;
@@ -76,31 +76,33 @@ export default function BagPopUp(props) {
     <div className="cosmeticPopUp">
       <h3 className="popoverText"> Excellent Choice!</h3>
       <img src="https://plantae.co.nz/_hashes/files/d2969bd67dce539d9d3f95c2da717318f3b11150" className="cosmeticPopUpImg"></img>
-      <p className="popoverText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget lorem dolor sed viverra ipsum. Ullamcorper sit amet risus nullam eget. Volutpat sed cras ornare arcu dui vivamus</p>
+      <p className="popoverText">There are cosmetic and personal care brands that are entirely free of any known plastic ingredients. Brands and companies that do not use microplastic ingredients in their products can carry the Zero Plastic Inside logo.
+
+At a glance, this logo makes it clear to consumers that a product is guaranteed 100% free of microplastic ingredients. We certify brands for your convenience, so that you can use cosmetics and personal care products without worrying about your health or the health of the environment.</p>
     </div>;
   const popGreenTooth = 
   <div className="cosmeticPopUp">
     <h3 className="popoverText"> Good Choice!</h3>
-    <p className="popoverText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget lorem dolor sed viverra ipsum. Ullamcorper sit amet risus nullam eget. Volutpat sed cras ornare arcu dui vivamus</p>
+    <p className="popoverText">This product is a decent choice! This particular product has no signs of microplastic material, but other products from this brand may contain microplastic material. So when shopping this brand pay attention to the ingrediants! </p>
   </div>;
   const popRedTooth = 
   <div className="cosmeticPopUp">
     <h3 className="popoverText"> Poor Choice!</h3>
-    <p className="popoverText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget lorem dolor sed viverra ipsum. Ullamcorper sit amet risus nullam eget. Volutpat sed cras ornare arcu dui vivamus</p>
+    <p className="popoverText">This product has sort of microplastic material. These include but are not limited to Polyethylene (PE), Polypropylene (PP), Polymethyl methacrylate (PMMA), Nylon (PA), Polyurethane, and Acrylates Copolymer.</p>
     <div className="redTPBathroom"></div>
     <p className= "buttonContinue"><Button startIcon={<ArrowForwardIosIcon/>}><Nav.Link href="/plasticpollution/#/Wastewater">Continue</Nav.Link></Button></p>
   </div>;
    const popRedCleanser = 
    <div className="cosmeticPopUp">
      <h3 className="popoverText"> Poor Choice!</h3>
-     <p className="popoverText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget lorem dolor sed viverra ipsum. Ullamcorper sit amet risus nullam eget. Volutpat sed cras ornare arcu dui vivamus</p>
+     <p className="popoverText">This product has sort of microplastic material. These include but are not limited to Polyethylene (PE), Polypropylene (PP), Polymethyl methacrylate (PMMA), Nylon (PA), Polyurethane, and Acrylates Copolymer.</p>
      <div className="redCleanserBathroom"></div>
      <p className= "buttonContinue"><Button startIcon={<ArrowForwardIosIcon/>}><Nav.Link href="/plasticpollution/#/Wastewater">Continue</Nav.Link></Button></p>
    </div>;
    const popRedScrub = 
    <div className="cosmeticPopUp">
      <h3 className="popoverText"> Poor Choice!</h3>
-     <p className="popoverText">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget lorem dolor sed viverra ipsum. Ullamcorper sit amet risus nullam eget. Volutpat sed cras ornare arcu dui vivamus</p>
+     <p className="popoverText">This product has sort of microplastic material. These include but are not limited to Polyethylene (PE), Polypropylene (PP), Polymethyl methacrylate (PMMA), Nylon (PA), Polyurethane, and Acrylates Copolymer.</p>
      <div className="redScrubBathroom"></div>
      <p className= "buttonContinue"><Button startIcon={<ArrowForwardIosIcon/>}><Nav.Link href="/plasticpollution/#/Wastewater">Continue</Nav.Link></Button></p>
    </div>;

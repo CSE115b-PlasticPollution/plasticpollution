@@ -2,11 +2,13 @@
 .macrotxtMicro{
   color:white;
   font-size: 25px;
+  text-align: center;
 }
 
 .macrotxtMicroTitle{
   color:white;
   font-size: 30px;
+  text-align: center;
 }
 .oceanMacro{
   height:auto;

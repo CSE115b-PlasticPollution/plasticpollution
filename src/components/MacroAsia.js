@@ -29,20 +29,20 @@ const Macro = (myRef) => {
         </div>
         
       </div>
-      <div><p className="description2 macrotxt">
+      <div><h2 className="description2 macrotxt">
       In the past, China accepted a large amount of our recycling, but recent purity standards made it so much of this is being rejected. Now, our contaminated recycling is being sent to other areas in Asia. 
       Recycled materials still require new, virgin plastic to make products. This means that even a bottle made with recycled plastic is still contributing to net world plastic increase. 
-      </p>
-      <p className="description2 macrotxttitle">Broadly, there are two major ways to recycle plastic: </p>
+      </h2>
+      <h2 className="description2 macrotxttitle">Broadly, there are two major ways to recycle plastic: </h2>
         <div className="landfill_macro_double_cont">
           <div>
-          <p className="description2 macrotxt">Mechanical recycling</p>
-            <p className="description2 macrotxt">Plastic is washed, ground into powders and melted, and turned into similar plastic products</p>
+          <h2 className="description2 macrotxt">Mechanical recycling</h2>
+            <h2 className="description2 macrotxt">Plastic is washed, ground into powders and melted, and turned into similar plastic products</h2>
             <Trans/>
             </div>
           <div>
-          <p className="description2 macrotxt">Chemical recycling </p>
-        <p className="description2 macrotxt"> Plastic is broken down into basic components, and could be turned into synthetic crude oil </p>
+          <h2 className="description2 macrotxt">Chemical recycling </h2>
+        <h2 className="description2 macrotxt"> Plastic is broken down into basic components, and could be turned into synthetic crude oil </h2>
         <TransChem/>
         </div>
       </div>

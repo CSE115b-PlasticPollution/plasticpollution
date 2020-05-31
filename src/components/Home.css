@@ -56,18 +56,18 @@ A:hover{ COLOR: white;
   src: local('Orbitron'), url(../fonts/Orbitron-Regular.ttf) format('truetype');
 }
 
-.counterContainer{
-  background:transparent;
+.counterContainer_home{
+  background: black
 
 }
 .counterTextContainer{
   display: flex;
   flex-flow: column;
-  color: white;
+  color: black;
   align-items: center
 }
 .counterTitleText{
-  color:white;
+  color:black;
 }
 
 

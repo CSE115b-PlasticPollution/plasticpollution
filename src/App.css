@@ -50,7 +50,7 @@ p {
 
 .grid-container {
   display: grid;
-      grid-template-columns: auto auto auto;
+      grid-template-columns: auto auto auto auto;
       backgroundColor: gray;
       padding: 10px;
       margin-top: .5px;
@@ -59,7 +59,7 @@ p {
 
 .grid-container > div {
       text-align: center;
-      grid-template-columns: auto auto auto;
+      grid-template-columns: auto auto auto auto;
       font-size: 25px;
       width: 180px;
       border-radius: 7px 7px 7px 7px;

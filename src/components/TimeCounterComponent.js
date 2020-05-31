@@ -22,7 +22,7 @@ const popoverCountdown = (
 const popoverWaste = (
     <div className="popoverdiv">
         <img className= "popoverImg" src= "https://images.pexels.com/photos/2768961/pexels-photo-2768961.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="Sample Image"></img>
-        <p className="popovertext">afbks dbfkn dfenfknfenjsn jdfndsnfnoidn ngowngns lkdng knionfkafnasj alnflnf akfnafn an afnaonf ja baubfasb bsf ajfa sjfnsa d </p>
+        <p className="popovertext">Plastic that is dumped in the ocean conglomerates at various depths, and can be detrimental to the marine life. </p>
       </div>
 );
 

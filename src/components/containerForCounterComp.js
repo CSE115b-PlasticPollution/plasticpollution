@@ -19,7 +19,7 @@ export default class CounterContainer extends React.Component {
       });
     }
     InitialStatement(){
-        return <Jumbotron className="counterContainer"><div className="counterTextContainer">
+        return <Jumbotron className="counterContainer_home"><div className="counterTextContainer">
             <h2 className="counterTitleText">Plastic Production and Waste by the numbers</h2>
           <p className="counterTitleText">See how much plastic is being produced and wasted every second.</p>
           <p className ="backgroundButtonColor">

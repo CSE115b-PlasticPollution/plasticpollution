@@ -66,6 +66,7 @@ import Clothes from './components/clothes'
 import Wastewater from './components/wastewater'
 import microRoad from './components/microRoad';
 import MicroBoardwalk from './components/MicroBoardwalk';
+import Challenges from './components/challenges';
 
 /* End of JS & CSS FILES */
 
@@ -122,6 +123,7 @@ const App = props => {
           <Route path="/PreventionJourney" component={PreventionJourney}/>
           <Route path="/NanoEvaporation" component={NanoEvaporation}/>
           <Route path="/popOverNano" component={popOverNano}/>
+          <Route path="/Challenges" component={Challenges}/>
           <Route path ="/Error" component={Error}/>
         </div>
             </Switch>
@@ -376,6 +378,10 @@ const styleMap = {
             <button className ="button-secondary pure-button"
             onClick = {this.togglerHandlerLinks}>Helpful Links</button>
             {displayAllTwo}
+          </div>
+          <div>
+            <button className ="button-secondary pure-button"><a className ="button-secondary pure-button"
+            href="/plasticpollution/#/Challenges" >Challenges</a></button>
           </div>
         </div>
         <JumboFoot />
