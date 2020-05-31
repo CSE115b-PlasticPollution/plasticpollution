@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/plasticpollution/static/css/main.2d301119.chunk.css",
-    "main.js": "/plasticpollution/static/js/main.b1800d9a.chunk.js",
-    "main.js.map": "/plasticpollution/static/js/main.b1800d9a.chunk.js.map",
+    "main.css": "/plasticpollution/static/css/main.9fa10435.chunk.css",
+    "main.js": "/plasticpollution/static/js/main.60e2cd12.chunk.js",
+    "main.js.map": "/plasticpollution/static/js/main.60e2cd12.chunk.js.map",
     "runtime-main.js": "/plasticpollution/static/js/runtime-main.aa25dee3.js",
     "runtime-main.js.map": "/plasticpollution/static/js/runtime-main.aa25dee3.js.map",
     "static/css/2.6ece1a74.chunk.css": "/plasticpollution/static/css/2.6ece1a74.chunk.css",
-    "static/js/2.232a95ea.chunk.js": "/plasticpollution/static/js/2.232a95ea.chunk.js",
-    "static/js/2.232a95ea.chunk.js.map": "/plasticpollution/static/js/2.232a95ea.chunk.js.map",
+    "static/js/2.360b7cc2.chunk.js": "/plasticpollution/static/js/2.360b7cc2.chunk.js",
+    "static/js/2.360b7cc2.chunk.js.map": "/plasticpollution/static/js/2.360b7cc2.chunk.js.map",
     "index.html": "/plasticpollution/index.html",
-    "precache-manifest.95f5006044a038f68026465ff6db71e8.js": "/plasticpollution/precache-manifest.95f5006044a038f68026465ff6db71e8.js",
+    "precache-manifest.099ea5536e5fff1c0e4523a053d214e1.js": "/plasticpollution/precache-manifest.099ea5536e5fff1c0e4523a053d214e1.js",
     "service-worker.js": "/plasticpollution/service-worker.js",
     "static/css/2.6ece1a74.chunk.css.map": "/plasticpollution/static/css/2.6ece1a74.chunk.css.map",
-    "static/css/main.2d301119.chunk.css.map": "/plasticpollution/static/css/main.2d301119.chunk.css.map",
-    "static/js/2.232a95ea.chunk.js.LICENSE.txt": "/plasticpollution/static/js/2.232a95ea.chunk.js.LICENSE.txt",
+    "static/css/main.9fa10435.chunk.css.map": "/plasticpollution/static/css/main.9fa10435.chunk.css.map",
+    "static/js/2.360b7cc2.chunk.js.LICENSE.txt": "/plasticpollution/static/js/2.360b7cc2.chunk.js.LICENSE.txt",
     "static/media/Orbitron-Regular.ttf": "/plasticpollution/static/media/Orbitron-Regular.add0c424.ttf",
     "static/media/SammyTwo.png": "/plasticpollution/static/media/SammyTwo.b4d358aa.png",
     "static/media/Water-bubble.mp3": "/plasticpollution/static/media/Water-bubble.0c384c1b.mp3",
@@ -61,8 +61,8 @@
   "entrypoints": [
     "static/js/runtime-main.aa25dee3.js",
     "static/css/2.6ece1a74.chunk.css",
-    "static/js/2.232a95ea.chunk.js",
-    "static/css/main.2d301119.chunk.css",
-    "static/js/main.b1800d9a.chunk.js"
+    "static/js/2.360b7cc2.chunk.js",
+    "static/css/main.9fa10435.chunk.css",
+    "static/js/main.60e2cd12.chunk.js"
   ]
 }
