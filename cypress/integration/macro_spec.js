@@ -30,10 +30,9 @@ describe('Testing Macro Route', function() {
 
         window.cy.get('a[href*="MacroOcean"]').click()
 
-    
+        window.cy.get('a[href*="MacroDump"]').click()
 
-
-
+        window.cy.get('a[href*="Macro"]').click()
 
     })
     

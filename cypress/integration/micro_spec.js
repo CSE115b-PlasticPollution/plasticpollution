@@ -6,17 +6,27 @@ it('tests start an adventure route: micro', function() {
 
     window.cy.contains("Micro").click()
 
-    window.cy.url().should('include', 'Micro#/')
+    window.cy.url().should('include', 'Micro')
     
-    window.cy.contains("Dive").click()
+    //window.cy.contains("Dive").click()
+    window.cy.get('[href*= "/plasticpollution/#/Road"]').click();
 
-    window.cy.url().should('include','Ocean#/')
+    window.cy.url().should('include','Road')
 
-    window.cy.get('[class*= "floatButton2"]').click()
-    window.cy.get('[class*= "floatButton2"]').click()
+    window.cy.get('[href*= "/plasticpollution/#/Wastewater"]').click();
 
-    window.cy.get('[class*= "floatButton3"]').click()
-    window.cy.get('[class*= "floatButton3"]').click()
+    window.cy.url().should('include','Wastewater')
+   
+    window.cy.get('[href= "/plasticpollution/#/Ocean"]').click();
+
+    window.cy.url().should('include','Ocean')
+
+    window.cy.get('[class="oceanMain"]').get('[class*="floatButton"]').get('[href*= "FishMarket"]')
+
+    window.cy.visit('http://localhost:3000/plasticpollution/#/FishMarket')
+
+    window.cy.get('[href="/plasticpollution/#/HumanConsumptionNano"]').click();
 })
 
 })
+
