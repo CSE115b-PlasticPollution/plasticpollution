@@ -23,9 +23,9 @@ const toggleAlert = () => {
       <div>
       <iframe width='100%' height='800px' src="https://poly.google.com/view/bRAaKaAmWza/embed?chrome=min" frameborder='0' style={style} allowvr='yes' allow='vr; xr; accelerometer; magnetometer; gyroscope; autoplay;' allowfullscreen mozallowfullscreen='true' webkitallowfullscreen='true' onmousewheel='' ></iframe>
       <>
-    <Button style = {buttonLayout} onClick = {toggleAlert} variant="info" size="lg" block>
-      <h1 style = {styleButton}> <Nav.Link style = {styleButton} href="/plasticpollution/#/Ocean3D">Go Into The Ocean?</Nav.Link> </h1>
-    </Button>
+      <Button style = {buttonLayout} onClick = {toggleAlert} variant="info" size="lg" block>
+        <h1 style = {styleButton}> <Nav.Link style = {styleButton} href="/plasticpollution/#/Ocean3D">Go Into The Ocean?</Nav.Link> </h1>
+      </Button>
   </>
       </div>
     )

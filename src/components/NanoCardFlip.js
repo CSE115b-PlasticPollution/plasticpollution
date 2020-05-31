@@ -6,8 +6,7 @@ import Nav from 'react-bootstrap/Nav';
 const NanoCardFlip = () =>{
 
   return(
-    <div className = "nanoInfoFormat">
-
+    <div>
             <div class="flip-boxNano">
               <div class="flip-box-innerNano">
               <div class="flip-box-frontNano">
