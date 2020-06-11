@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TimeCounterComponentItems /> Checking Github Live Links: Rendered correctly 1`] = `
+<a
+  className="nav-link"
+  href="/https://cse115b-plasticpollution.github.io/plasticpollution/#/"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  Landing Page
+</a>
+`;
+
+exports[`<TimeCounterComponentItems /> Checking Local Server Links: Rendered correctly 1`] = `
+<a
+  className="nav-link"
+  href="/plasticpollution/#/"
+  onClick={[Function]}
+  onKeyDown={[Function]}
+>
+  Landing Page
+</a>
+`;
