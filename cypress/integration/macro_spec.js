@@ -6,7 +6,7 @@ describe('Testing Macro Route', function() {
     
         window.cy.contains("Macro").click()
     
-        window.cy.url().should('include', 'Macro#/')
+        window.cy.url().should('include', 'Macro')
         
         window.cy.get('a[href*="MacroRecycle"]').click()
 
@@ -32,7 +32,6 @@ describe('Testing Macro Route', function() {
 
         window.cy.get('a[href*="MacroDump"]').click()
 
-        window.cy.get('a[href*="Macro"]').click()
 
     })
     

@@ -8,7 +8,7 @@ describe('Macro to Micro transition to Nano', function() {
 
         window.cy.get('a[href*="Ocean"]').click()
 
-        window.cy.get('a[href*="FishMarket"]').click()
+        window.cy.get('a[href="plasticpollution/#/FishMarket"]').click({multiple:true})
 
         window.cy.get('a[href*="HumanConsumptionNano"]').click()
 

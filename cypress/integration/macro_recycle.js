@@ -10,6 +10,10 @@ describe('Testing Macro Route - recycle->asia->finish', function() {
 
         window.cy.get('[class*= "landfill_macro_double_cont"]')
 
+        window.cy.get('a[href*="MacroRecycle"]').click()
+
+        window.cy.get('a[href*="Macro2"]').click()
+
     })
 
     //<Card class1="recyc_macro_item bottle_recyc_macro"  class2="recyc_macro_item" title2='Yes!' text2="Plastic bottles should be recycled just make sure they are dry and cleaned"/>

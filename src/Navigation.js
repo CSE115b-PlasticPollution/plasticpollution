@@ -19,8 +19,6 @@ class Navigation extends React.Component{
 							{/*Add Link here of the page you want displayed on site, follow format! /plastic/#/foo.js*/}
 					      <Nav.Link href="/plasticpollution/#/">Home</Nav.Link>
 					      <Nav.Link href="/plasticpollution/#/about">About</Nav.Link>
-								<Nav.Link href="/plasticpollution/#/faq">FAQ</Nav.Link>
-								<Nav.Link href="/plasticpollution/#/Contact">Contact</Nav.Link>
 								<Nav.Link href="/plasticpollution/#/Activist">Become an Activist</Nav.Link>
 								<Nav.Link href="/plasticpollution/#/FoodWeb"></Nav.Link>
 								<Nav.Link href="/plasticpollution/#/FishMarket"></Nav.Link>

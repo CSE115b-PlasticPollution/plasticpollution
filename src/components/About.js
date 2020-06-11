@@ -20,7 +20,11 @@ const About = () => {
       <Jumbotron fluid className ="jumboHeight">
     <h1>Meet The Banana Slug Team</h1>
     <p>UCSC Plastic Pollution</p>
-    <p>Some words of introduction here about team....Some words of introduction here....Some words of introduction here....Some words of introduction here....Some words of introduction here..</p>
+    <p>This website was made in collaberation of the IDEASS lab, a year long course at UCSC which brings together
+      students of different backgrounds to collaberate on projects that deal with social, and ecological issues of our time. 
+      This project was initiated through the IDEASS lab and the students of the CSE 115 class helped with the creation and design of the website
+      We would like to thank everyone who made this project possible. From the team that worked first hand on it to the professors and assistants 
+      that assisted with it. Thank you professor Richard Jullig, professor Stella Heins, and teaching assistant Akila de Silva. </p>
 </Jumbotron>
       <CardGroup>
       <Card>
@@ -50,9 +54,9 @@ const About = () => {
   <Card>
     <Card.Img className="pictureHeight" src={Ucm}/>
     <Card.Body>
-      <Card.Title>Anna Kovneva</Card.Title>
+      <Card.Title>Paola Reyes</Card.Title>
       <Card.Text>
-    React Developer
+    IDEASS Collaberator
       </Card.Text>
     </Card.Body>
     <Card.Footer>
@@ -62,9 +66,9 @@ const About = () => {
 <Card>
 <Card.Img className="pictureHeight" src={SammyTwo} />
 <Card.Body>
-<Card.Title>Akila De Silva</Card.Title>
+<Card.Title>Alexis Hooper</Card.Title>
 <Card.Text>
-  React Developer
+IDEASS Collaberator
 </Card.Text>
 </Card.Body>
 <Card.Footer>
@@ -76,7 +80,7 @@ const About = () => {
 <Card.Body>
 <Card.Title>Kevika Peires</Card.Title>
 <Card.Text>
-  React Developer{' '}
+IDEASS Collaberator{' '}
 </Card.Text>
 </Card.Body>
 <Card.Footer>
@@ -88,7 +92,7 @@ const About = () => {
 <Card.Body>
 <Card.Title>Benji Weaver</Card.Title>
 <Card.Text>
-React Developer
+IDEASS Collaberator
 </Card.Text>
 </Card.Body>
 <Card.Footer>
